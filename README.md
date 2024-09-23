@@ -21,5 +21,5 @@
 ## Experience
 - **CEO** at **Northfast**
 ## Contact
-Feel free to reach out to me at [info@muslih.tech](mailto:info@muslih.tech) or connect with me on [LinkedIn](https://www.linkedin.com/in/muslihabdiker/) | [GitHub](https://github.com/muslihabdiker) | [Twitter](https://x.com/muslihabdikeral).
+Feel free to reach out to me at [muslih.ali@northfast.co.ke](mailto:muslih.ali@northfast.co.ke) or connect with me on [LinkedIn](https://www.linkedin.com/in/muslihabdiker/) | [GitHub](https://github.com/muslihabdiker) | [Twitter](https://x.com/muslihabdikeral).
 ---
