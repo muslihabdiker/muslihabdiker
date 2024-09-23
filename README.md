@@ -1,7 +1,5 @@
 ## Projects
-- **[valegic]**: A brief description of what this project does and its key features. [Link to project]
-- **[paswad]**: A brief description of what this project does and its key features. [Link to project]
-- **[patra]**: A brief description of what this project does and its key features. [Link to project]
+
 ## Skills
 - **Languages**: 
   - ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white)
