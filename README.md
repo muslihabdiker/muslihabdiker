@@ -1,4 +1,5 @@
 ## Projects
+![Northfast Award](https://img.shields.io/badge/Northfast-Excellence%20Award-gold?style=for-the-badge&logo=star&logoColor=white)
 
 ## Skills
 - **Languages**: 
