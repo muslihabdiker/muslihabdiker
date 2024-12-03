@@ -1,10 +1,24 @@
-## Projects
--paswad (https://paswad.com)
--valegic (https://www.valegic.com)
--holyann framework
-##Awards
-![Northfast Award](https://img.shields.io/badge/Northfast-Excellence%20Award-gold?style=for-the-badge&logo=star&logoColor=white)
+# Hi, I'm Muslih! 👋  
+**CEO of [Northfast](https://northfast.co.ke)**  
 
+## Projects
+### [Paswad](https://paswad.com)  
+<img src="https://paswad.com/wp-content/uploads/2024/11/paswadLogo.png" alt="Paswad Logo" width="200"> 
+Unified Authentication Service 
+- A stateless authentication platform using JWT and custom OAuth 2.0.  
+- Real-time blockchain-backed user management system.  
+
+---
+### [Valegic](https://valegic.com)   
+<img src="https://valegic.com/wp-content/uploads/2024/11/valegicLogo-300x300-1.jpg" alt="Valegic Logo" width="200"> 
+
+
+---
+### HolyAnn Framework
+- holyann
+## Awards
+![Northfast Award](https://img.shields.io/badge/Northfast-Excellence%20Award-gold?style=for-the-badge&logo=star&logoColor=white)
+---
 ## Skills
 - **Languages**: 
   - ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white)
